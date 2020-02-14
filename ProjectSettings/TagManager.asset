@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - hero_projectile
+  - ennemy_projectile
+  - ennemy
+  - hero
   layers:
   - Default
   - TransparentFX

@@ -1,0 +1,452 @@
+/target:library
+/nowarn:0169
+/out:Temp/UnityEditor.TestRunner.dll
+/debug:portable
+/optimize-
+/nostdlib+
+/preferreduilang:en-US
+/langversion:latest
+/reference:Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.ARModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.AndroidJNIModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.AnimationModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.AssetBundleModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.AudioModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.ClothModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.CrashReportingModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.DSPGraphModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.DirectorModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.GameCenterModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.GridModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.HotReloadModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.IMGUIModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.ImageConversionModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.InputModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.InputLegacyModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.PhysicsModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.Physics2DModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.ProfilerModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.StreamingModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.SubstanceModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.SubsystemsModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.TLSModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.TextRenderingModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.TilemapModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.UIModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.UNETModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.UmbraModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.UnityConnectModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.UnityTestProtocolModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.VFXModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.VRModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.VehiclesModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.VideoModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEditor.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/Managed/UnityEditor.Graphs.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll"
+/reference:M:/users/tangu/MadBits/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Core.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Runtime.Serialization.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Xml.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Xml.Linq.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Numerics.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Numerics.Vectors.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Net.Http.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Microsoft.CSharp.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Data.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/Microsoft.Win32.Primitives.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/netstandard.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.AppContext.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Collections.Concurrent.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Collections.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Collections.NonGeneric.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Collections.Specialized.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ComponentModel.Annotations.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ComponentModel.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ComponentModel.EventBasedAsync.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ComponentModel.Primitives.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ComponentModel.TypeConverter.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Console.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Data.Common.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Diagnostics.Contracts.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Diagnostics.Debug.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Diagnostics.FileVersionInfo.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Diagnostics.Process.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Diagnostics.StackTrace.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Diagnostics.TextWriterTraceListener.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Diagnostics.Tools.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Diagnostics.TraceSource.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Drawing.Primitives.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Dynamic.Runtime.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Globalization.Calendars.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Globalization.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Globalization.Extensions.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.Compression.ZipFile.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.FileSystem.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.FileSystem.DriveInfo.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.FileSystem.Primitives.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.FileSystem.Watcher.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.IsolatedStorage.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.MemoryMappedFiles.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.Pipes.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.IO.UnmanagedMemoryStream.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Linq.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Linq.Expressions.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Linq.Parallel.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Linq.Queryable.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.Http.Rtc.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.NameResolution.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.NetworkInformation.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.Ping.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.Primitives.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.Requests.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.Security.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.Sockets.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.WebHeaderCollection.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.WebSockets.Client.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Net.WebSockets.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ObjectModel.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Reflection.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Reflection.Emit.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Reflection.Emit.ILGeneration.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Reflection.Emit.Lightweight.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Reflection.Extensions.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Reflection.Primitives.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Resources.Reader.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Resources.ResourceManager.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Resources.Writer.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.CompilerServices.VisualC.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.Extensions.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.Handles.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.InteropServices.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.InteropServices.RuntimeInformation.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.InteropServices.WindowsRuntime.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.Numerics.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.Serialization.Formatters.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.Serialization.Json.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.Serialization.Primitives.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Runtime.Serialization.Xml.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Security.Claims.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Security.Cryptography.Algorithms.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Security.Cryptography.Csp.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Security.Cryptography.Encoding.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Security.Cryptography.Primitives.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Security.Cryptography.X509Certificates.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Security.Principal.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Security.SecureString.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ServiceModel.Duplex.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ServiceModel.Http.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ServiceModel.NetTcp.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ServiceModel.Primitives.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ServiceModel.Security.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Text.Encoding.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Text.Encoding.Extensions.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Text.RegularExpressions.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Threading.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Threading.Overlapped.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Threading.Tasks.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Threading.Tasks.Parallel.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Threading.Thread.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Threading.ThreadPool.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Threading.Timer.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.ValueTuple.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.ReaderWriter.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.XDocument.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.XmlDocument.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.XmlSerializer.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.XPath.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.XPath.XDocument.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/UnityScript.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/UnityScript.Lang.dll"
+/reference:"M:/Program Files/Unity/2019.3.0f6/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll"
+/define:UNITY_2019_3_0
+/define:UNITY_2019_3
+/define:UNITY_2019
+/define:UNITY_5_3_OR_NEWER
+/define:UNITY_5_4_OR_NEWER
+/define:UNITY_5_5_OR_NEWER
+/define:UNITY_5_6_OR_NEWER
+/define:UNITY_2017_1_OR_NEWER
+/define:UNITY_2017_2_OR_NEWER
+/define:UNITY_2017_3_OR_NEWER
+/define:UNITY_2017_4_OR_NEWER
+/define:UNITY_2018_1_OR_NEWER
+/define:UNITY_2018_2_OR_NEWER
+/define:UNITY_2018_3_OR_NEWER
+/define:UNITY_2018_4_OR_NEWER
+/define:UNITY_2019_1_OR_NEWER
+/define:UNITY_2019_2_OR_NEWER
+/define:UNITY_2019_3_OR_NEWER
+/define:UNITY_INCLUDE_TESTS
+/define:ENABLE_AR
+/define:ENABLE_AUDIO
+/define:ENABLE_CACHING
+/define:ENABLE_CLOTH
+/define:ENABLE_EVENT_QUEUE
+/define:ENABLE_MICROPHONE
+/define:ENABLE_MULTIPLE_DISPLAYS
+/define:ENABLE_PHYSICS
+/define:ENABLE_TEXTURE_STREAMING
+/define:ENABLE_UNET
+/define:ENABLE_LZMA
+/define:ENABLE_UNITYEVENTS
+/define:ENABLE_VR
+/define:ENABLE_WEBCAM
+/define:ENABLE_UNITYWEBREQUEST
+/define:ENABLE_WWW
+/define:ENABLE_CLOUD_SERVICES
+/define:ENABLE_CLOUD_SERVICES_COLLAB
+/define:ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS
+/define:ENABLE_CLOUD_SERVICES_ADS
+/define:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST
+/define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+/define:ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING
+/define:ENABLE_CLOUD_SERVICES_PURCHASING
+/define:ENABLE_CLOUD_SERVICES_ANALYTICS
+/define:ENABLE_CLOUD_SERVICES_UNET
+/define:ENABLE_CLOUD_SERVICES_BUILD
+/define:ENABLE_CLOUD_LICENSE
+/define:ENABLE_EDITOR_HUB_LICENSE
+/define:ENABLE_WEBSOCKET_CLIENT
+/define:ENABLE_DIRECTOR_AUDIO
+/define:ENABLE_DIRECTOR_TEXTURE
+/define:ENABLE_MANAGED_JOBS
+/define:ENABLE_MANAGED_TRANSFORM_JOBS
+/define:ENABLE_MANAGED_ANIMATION_JOBS
+/define:ENABLE_MANAGED_AUDIO_JOBS
+/define:ENABLE_RUNTIME_PERMISSIONS
+/define:ENABLE_ENGINE_CODE_STRIPPING
+/define:ENABLE_ONSCREEN_KEYBOARD
+/define:INCLUDE_DYNAMIC_GI
+/define:ENABLE_MONO_BDWGC
+/define:ENABLE_SCRIPTING_GC_WBARRIERS
+/define:PLATFORM_SUPPORTS_MONO
+/define:ENABLE_VIDEO
+/define:PLATFORM_ANDROID
+/define:UNITY_ANDROID
+/define:UNITY_ANDROID_API
+/define:ENABLE_EGL
+/define:ENABLE_NETWORK
+/define:ENABLE_RUNTIME_GI
+/define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+/define:PLATFORM_SUPPORTS_ADS_ID
+/define:UNITY_CAN_SHOW_SPLASH_SCREEN
+/define:UNITY_HAS_GOOGLEVR
+/define:UNITY_HAS_TANGO
+/define:ENABLE_SPATIALTRACKING
+/define:UNITY_ASTC_ONLY_DECOMPRESS
+/define:ENABLE_UNITYADS_RUNTIME
+/define:UNITY_UNITYADS_API
+/define:ENABLE_MONO
+/define:NET_4_6
+/define:ENABLE_PROFILER
+/define:DEBUG
+/define:TRACE
+/define:UNITY_ASSERTIONS
+/define:UNITY_EDITOR
+/define:UNITY_EDITOR_64
+/define:UNITY_EDITOR_WIN
+/define:ENABLE_UNITY_COLLECTIONS_CHECKS
+/define:ENABLE_BURST_AOT
+/define:UNITY_TEAM_LICENSE
+/define:ENABLE_CUSTOM_RENDER_TEXTURE
+/define:ENABLE_DIRECTOR
+/define:ENABLE_LOCALIZATION
+/define:ENABLE_SPRITES
+/define:ENABLE_TERRAIN
+/define:ENABLE_TILEMAP
+/define:ENABLE_TIMELINE
+/define:ENABLE_LEGACY_INPUT_MANAGER
+/define:CSHARP_7_OR_LATER
+/define:CSHARP_7_3_OR_NEWER
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\Api\CallbacksDelegator.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\Api\CallbacksDelegatorListener.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\Api\CallbacksHolder.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\Api\ExecutionSettings.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\Api\Filter.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\Api\ICallbacks.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\Api\ICallbacksDelegator.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\Api\ICallbacksHolder.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\Api\IErrorCallbacks.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\Api\ITestAdaptor.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\Api\ITestAdaptorFactory.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\Api\ITestResultAdaptor.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\Api\ITestRunSettings.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\Api\ITestRunnerApi.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\Api\ITestTreeRebuildCallbacks.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\Api\RunState.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\Api\TestAdaptor.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\Api\TestAdaptorFactory.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\Api\TestMode.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\Api\TestResultAdaptor.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\Api\TestRunnerApi.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\Api\TestStatus.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\AssemblyInfo.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\CommandLineParser\CommandLineOption.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\CommandLineParser\CommandLineOptionSet.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\CommandLineParser\ICommandLineOption.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\CommandLineTest\Executer.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\CommandLineTest\ExecutionSettings.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\CommandLineTest\ExitCallbacks.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\CommandLineTest\ISettingsBuilder.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\CommandLineTest\LogSavingCallbacks.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\CommandLineTest\LogWriter.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\CommandLineTest\ResultsSavingCallbacks.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\CommandLineTest\ResultsWriter.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\CommandLineTest\RunData.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\CommandLineTest\RunSettings.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\CommandLineTest\SettingsBuilder.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\CommandLineTest\SetupException.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\CommandLineTest\TestStarter.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\GUI\AssetsDatabaseHelper.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\GUI\GuiHelper.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\GUI\IAssetsDatabaseHelper.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\GUI\IGuiHelper.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\GUI\TestListBuilder\RenderingOptions.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\GUI\TestListBuilder\ResultSummarizer.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\GUI\TestListBuilder\TestFilterSettings.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\GUI\TestListBuilder\TestTreeViewBuilder.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\GUI\TestListGuiHelper.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\GUI\TestListTreeView\Icons.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\GUI\TestListTreeView\TestListTreeViewDataSource.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\GUI\TestListTreeView\TestListTreeViewGUI.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\GUI\TestListTreeView\TestTreeViewItem.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\GUI\TestRunnerResult.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\GUI\TestRunnerUIFilter.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\GUI\Views\EditModeTestListGUI.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\GUI\Views\PlayModeTestListGUI.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\GUI\Views\TestListGUIBase.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\NUnitExtension\Attributes\AssetPipelineIgnore.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\NUnitExtension\Attributes\ITestPlayerBuildModifier.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\NUnitExtension\Attributes\TestPlayerBuildModifierAttribute.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\NUnitExtension\TestRunnerStateSerializer.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\RequireApiProfileAttribute.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\RequirePlatformSupportAttribute.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestBuildAssemblyFilter.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestLaunchers\AttributeFinderBase.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestLaunchers\EditModeLauncher.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestLaunchers\EditModeLauncherContextSettings.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestLaunchers\PlatformSetup\AndroidPlatformSetup.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestLaunchers\PlatformSetup\ApplePlatformSetup.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestLaunchers\PlatformSetup\IPlatformSetup.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestLaunchers\PlatformSetup\LuminPlatformSetup.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestLaunchers\PlatformSetup\PlatformSpecificSetup.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestLaunchers\PlatformSetup\SwitchPlatformSetup.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestLaunchers\PlatformSetup\UwpPlatformSetup.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestLaunchers\PlatformSetup\XboxOnePlatformSetup.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestLaunchers\PlayerLauncher.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestLaunchers\PlayerLauncherBuildOptions.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestLaunchers\PlayerLauncherContextSettings.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestLaunchers\PlaymodeLauncher.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestLaunchers\PostbuildCleanupAttributeFinder.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestLaunchers\PrebuildSetupAttributeFinder.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestLaunchers\RemotePlayerLogController.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestLaunchers\RemotePlayerTestController.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestLaunchers\RemoteTestResultReciever.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestLaunchers\RuntimeTestLauncherBase.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestLaunchers\TestLauncherBase.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestResultSerializer.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRun\Tasks\BuildActionTaskBase.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRun\Tasks\BuildTestTreeTask.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRun\Tasks\CleanupVerificationTask.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRun\Tasks\FileCleanupVerifierTaskBase.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRun\Tasks\LegacyEditModeRunTask.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRun\Tasks\LegacyPlayModeRunTask.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRun\Tasks\LegacyPlayerRunTask.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRun\Tasks\PerformUndoTask.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRun\Tasks\PrebuildSetupTask.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRun\Tasks\RegisterFilesForCleanupVerificationTask.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRun\Tasks\SaveModiedSceneTask.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRun\Tasks\SaveUndoIndexTask.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRun\Tasks\TestTaskBase.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRun\TestJobData.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRun\TestJobDataHolder.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRun\TestJobRunner.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRun\TestRunCanceledException.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\Callbacks\EditModeRunnerCallback.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\Callbacks\RerunCallback.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\Callbacks\RerunCallbackData.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\Callbacks\RerunCallbackInitializer.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\Callbacks\TestRunnerCallback.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\Callbacks\WindowResultUpdater.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\EditModePCHelper.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\EditModeRunner.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\EditmodeWorkItemFactory.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\EditorEnumeratorTestWorkItem.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\EnumeratorStepHelper.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\Messages\EnterPlayMode.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\Messages\ExitPlayMode.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\Messages\RecompileScripts.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\Messages\WaitForDomainReload.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\Utils\CachingTestListProvider.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\Utils\EditorAssembliesProxy.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\Utils\EditorAssemblyWrapper.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\Utils\EditorCompilationInterfaceProxy.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\Utils\EditorLoadedTestAssemblyProvider.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\Utils\IEditorAssembliesProxy.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\Utils\IEditorCompilationInterfaceProxy.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\Utils\IEditorLoadedTestAssemblyProvider.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\Utils\ITestListCache.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\Utils\ITestListCacheData.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\Utils\ITestListProvider.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\Utils\TestListCache.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\Utils\TestListCacheData.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\Utils\TestListJob.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunner\Utils\TestListProvider.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunnerWindow.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestRunnerWindowSettings.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestSettings\ITestSettings.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestSettings\ITestSettingsDeserializer.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestSettings\TestSettings.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\TestSettings\TestSettingsDeserializer.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\UnityTestProtocol\AssemblyCompilationErrorsMessage.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\UnityTestProtocol\ITestRunnerApiMapper.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\UnityTestProtocol\IUtpLogger.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\UnityTestProtocol\IUtpMessageReporter.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\UnityTestProtocol\Message.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\UnityTestProtocol\TestFinishedMessage.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\UnityTestProtocol\TestPlanMessage.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\UnityTestProtocol\TestRunnerApiMapper.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\UnityTestProtocol\TestStartedMessage.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\UnityTestProtocol\TestState.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\UnityTestProtocol\UnityTestProtocolListener.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\UnityTestProtocol\UnityTestProtocolStarter.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\UnityTestProtocol\UtpDebuglogger.cs
+M:\users\tangu\MadBits\Library\PackageCache\com.unity.test-framework@1.1.9\UnityEditor.TestRunner\UnityTestProtocol\UtpMessageReporter.cs
